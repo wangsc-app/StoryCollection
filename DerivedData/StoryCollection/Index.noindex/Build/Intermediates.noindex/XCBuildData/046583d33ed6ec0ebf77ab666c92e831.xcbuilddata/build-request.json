@@ -1,0 +1,57 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "ddffce97369c0ea632a1f7c53b57c3c9b0f0566881165267bdc573f547553ad5"
+    }
+  ],
+  "containerPath" : "/Users/wangsc/Desktop/作業二/StoryCollection/StoryCollection.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/wangsc/Desktop/作業二/StoryCollection/DerivedData/StoryCollection/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/wangsc/Desktop/作業二/StoryCollection/DerivedData/StoryCollection/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/wangsc/Desktop/作業二/StoryCollection/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/wangsc/Desktop/作業二/StoryCollection/DerivedData/StoryCollection/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/wangsc/Desktop/作業二/StoryCollection/DerivedData/StoryCollection/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/wangsc/Desktop/作業二/StoryCollection/DerivedData/StoryCollection/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/wangsc/Desktop/作業二/StoryCollection/DerivedData/StoryCollection/Build/Products",
+      "pchPath" : "/Users/wangsc/Desktop/作業二/StoryCollection/DerivedData/StoryCollection/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
