@@ -1,8 +1,0 @@
-version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
-options: "76e6bbe380194b27b32bd92620b1d02378ee264f0788f0c0047e0fa59f6044f0"
-build_start_time: [1683618748, 720572000]
-build_end_time: [1683618748, 767118000]
-inputs:
-  "/Users/wangsc/Desktop/\u4F5C\u696D\u4E8C/StoryCollection/StoryCollection/AppDelegate.swift": !private [1683617047, 287994955]
-  "/Users/wangsc/Desktop/\u4F5C\u696D\u4E8C/StoryCollection/StoryCollection/SceneDelegate.swift": !private [1683617047, 291962567]
-  "/Users/wangsc/Desktop/\u4F5C\u696D\u4E8C/StoryCollection/StoryCollection/ViewController.swift": !private [1683617047, 293714347]
