@@ -12,6 +12,7 @@ import AVFAudio
 class ViewController: UIViewController
 {
     let synthesizer = AVSpeechSynthesizer()
+    var text = 0
     var pageIndex = 0
     var storyContentEN = ["\("   ")Do you remember the classic story ＜The Tortoise and the Hare＞ that you often heard when you were a child？\n It comes from Aesop's fables and describes an unfair race between a hare and a tortoise. \n We can tell children the fairy tales we often heard when we were young in English，not only to bring them the inspirations we once received，but also to enhance their familiarity with English. \n Don't worry that the vocabulary in the story will be too difficult and that the child won't learn anything. \n The following stories will have a comparison of Chinese and English，and there will be an introduction of key vocabulary at the end to allow children to learn English while listening to the story.",
                           "  \("   ")A tortoise and a hare live in the forest. One day, a hare meets a tortoise.\n He asks the tortoise, ”Hi, tortoise. What are you doing?” \n “I am running.” The tortoise says.\n “Haha! Running? You are too slow! Let’s have a race. I will show you what running is.” The hare laughs at the tortoise.\n “Ok. I believe I will win.” The tortoise says.\n So they decide to have a race to see who run faster.",
